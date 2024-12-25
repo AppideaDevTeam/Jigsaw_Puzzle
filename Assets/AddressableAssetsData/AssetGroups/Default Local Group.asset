@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d2c4d4e122c0fe4498751bbddea76fcf
+  m_SerializeEntries:
+  - m_GUID: 3b7d558277e480f438293f58eeb940ad
+    m_Address: EntryPointPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a86106e2abd81154da471fc2d7ca7513
+    m_Address: Assets/Art/Animation/_Jigsaw Piece.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88c0632f0afe273478cde3de32185cb1
+    m_Address: Assets/Art/Animation/Hold.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d625991730e53c4285dff6ea4f69cbe
+    m_Address: Assets/Art/Animation/Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4aceab1371ee8e946ae9526712bf8067
+    m_Address: Assets/Art/Animation/Release.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2977679bb8c1cb84ea5235afe53a3af2
+    m_Address: Assets/Art/Sprites/Puzzles/MonkeyPuzzle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a43c52afe898f7640933b31f985a1e7f
+    m_Address: Assets/Art/Sprites/Puzzles/_frame.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 103b1fb5a221af844b5c007ca09d6546
+    m_Address: Assets/Art/Sprites/Puzzles/AppIdea.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8d509047ee72904ab5b360135a1b278
+    m_Address: Assets/Art/Sprites/Puzzles/Windows XP.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab3c9d4974dd22648bbc95b9f6886466
+    m_Address: Assets/Art/Sprites/Background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d6344cf56481c2438c8dd4543df93da
+    m_Address: Assets/Gameplay/Puzzles/Windows XP.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03e96b7fd425af84caba6b678bd1be60
+    m_Address: Assets/Gameplay/Puzzles/AppIdea.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c1456f49c612aa4382d352b69b57b1e
+    m_Address: Assets/Gameplay/Puzzles/Monkey.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9272cc08e31a2f74ead8296a4bc3a11f
+    m_Address: Assets/Jigsaw_Puzzle/Runtime/Renderer Data.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 681886c5eb7344803b6206f758bf0b1c
+    m_Address: Assets/Jigsaw_Puzzle/Runtime/Pipeline Asset.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb3200a9689f016458fe62c5a2a82e5f
+    m_Address: EntryPoint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d274e9cf36356a74a86ee3e43238b848, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ed19e90124964384da5746d6b129c69d, type: 2}
+    - {fileID: 11400000, guid: 1c6c4ef97f73822428fc976438875388, type: 2}
