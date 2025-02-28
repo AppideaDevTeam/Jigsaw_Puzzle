@@ -15,9 +15,9 @@ MonoBehaviour:
   m_DefaultGroup: d2c4d4e122c0fe4498751bbddea76fcf
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 18a843a8ce1dd97c7024f4204fcf9497
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
@@ -35,14 +35,14 @@ MonoBehaviour:
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: b8314b35d5a1a3c4bb23bdf193bac8e5
   m_RemoteCatalogLoadPath:
-    m_Id: 
-  m_ContentStateBuildPathProfileVariableName: 
+    m_Id: 613b16aa0807bca4eb3e3c4c906bad23
+  m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
-  m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
+  m_overridePlayerVersion: '[BundleVersion]'
   m_GroupAssets:
   - {fileID: 11400000, guid: 965f2b30c51ef3849a3cbb920a7931e7, type: 2}
   - {fileID: 11400000, guid: 6f93c4c7e2957434687a9f5ad4a74223, type: 2}
@@ -67,6 +67,12 @@ MonoBehaviour:
         m_Value: ServerData/[BuildTarget]
       - m_Id: 9163b5102a7a6194686fb8dfe0369673
         m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+      - m_Id: a2210d51f4f760440be742dae5b47fe1
+        m_Value: 0.1.18
+      - m_Id: b8314b35d5a1a3c4bb23bdf193bac8e5
+        m_Value: ServerData/Puzzle_Fun/[BuildTarget]/[BundleVersion]/
+      - m_Id: 613b16aa0807bca4eb3e3c4c906bad23
+        m_Value: https://pub-5dddf86ad4de4c369ce4095d67e31d1c.r2.dev/Puzzle_Fun/[BuildTarget]/[BundleVersion]/
     m_ProfileEntryNames:
     - m_Id: d87649a11c12ee245a370667453aa6a7
       m_Name: BuildTarget
@@ -82,6 +88,15 @@ MonoBehaviour:
       m_InlineUsage: 0
     - m_Id: 9163b5102a7a6194686fb8dfe0369673
       m_Name: Remote.LoadPath
+      m_InlineUsage: 0
+    - m_Id: a2210d51f4f760440be742dae5b47fe1
+      m_Name: BundleVersion
+      m_InlineUsage: 0
+    - m_Id: b8314b35d5a1a3c4bb23bdf193bac8e5
+      m_Name: Custom.BuildPath
+      m_InlineUsage: 0
+    - m_Id: 613b16aa0807bca4eb3e3c4c906bad23
+      m_Name: Custom.LoadPath
       m_InlineUsage: 0
     m_ProfileVersion: 1
   m_LabelTable:

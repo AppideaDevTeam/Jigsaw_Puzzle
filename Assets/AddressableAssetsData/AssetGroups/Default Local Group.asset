@@ -82,18 +82,133 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9272cc08e31a2f74ead8296a4bc3a11f
-    m_Address: Assets/Jigsaw_Puzzle/Runtime/Renderer Data.asset
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 681886c5eb7344803b6206f758bf0b1c
-    m_Address: Assets/Jigsaw_Puzzle/Runtime/Pipeline Asset.asset
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fb3200a9689f016458fe62c5a2a82e5f
     m_Address: EntryPoint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bed3413e79ab7d49a413a23eabfbb49
+    m_Address: Assets/Art/Sprites/Puzzles/MonkeyPuzzleFull.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 055c5cd1bce5dc84ea3245a764bd7c7a
+    m_Address: Assets/Art/shaders/Outline.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ef287219374029459abe5b0129a8803
+    m_Address: Assets/Art/shaders/outlined piece.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18e9c69fe626ff1419471d181c8cbc11
+    m_Address: Assets/Art/Sprites/home-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acf3503b403897e4ab820c77eaf2269a
+    m_Address: Assets/Finger Point/Pointer.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 862eb9582d7f5b84f90299a33b90ebbc
+    m_Address: Assets/Finger Point/Pointer.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcb8b118c834c624ca2e52906d3f7efc
+    m_Address: Assets/Finger Point/Hand.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7aace58e07eca8489cf24fc828aeddd
+    m_Address: Assets/Art
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe09a4da08c49c044bb5c06c579cd2ae
+    m_Address: Assets/Art/Animation
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51dfde715eedfb14da9e86142d9bf026
+    m_Address: Assets/Art/shaders
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd464c4c46d83914bbe44db2d326ae2c
+    m_Address: Assets/Art/Sound
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 286f1ef5cccad4746baaa92916d9435a
+    m_Address: Assets/Art/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acf43ce3b181c654bb296fa548c55f1e
+    m_Address: Assets/Art/Sprites/Puzzles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 085a6ba469190ef458652cbf4bda7246
+    m_Address: Assets/Art/Sound/BGM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a969c4b21399fb4fb7faa39534769f5
+    m_Address: Assets/Art/Sound/SFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3e3efeafe9fc71448e1d0074c594f85
+    m_Address: Assets/Finger Point
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e847173b7e676047beda57fcfad4c7f
+    m_Address: Assets/Gameplay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d6f5fe1f24c9cf4f8e82ed1589258af
+    m_Address: Assets/Gameplay/Code
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efb82c86c3bb43141a7f5f431686c368
+    m_Address: Assets/Gameplay/Puzzles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34c32fc735dbe6645804b5ce3a6ad8a2
+    m_Address: Assets/Gameplay/Code/Shaders
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3f21df28883c6f4cbd67be1e87cb002
+    m_Address: Assets/Gameplay/Puzzles/Monkey 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95635be5052fc8e438324f38fc1b9e34
+    m_Address: Assets/Art/Sprites/Puzzles/Girl_Puzzle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c550fa39d1d52234781ce6749ca1b519
+    m_Address: Assets/MiniGames.Puzzle_Fun/Runtime/MiniGameConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a6fe9620bc3bf3498eb52ab3789777a
+    m_Address: Assets/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e916d971e429456c958a93c7e0964cb
+    m_Address: Assets/Slider.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
