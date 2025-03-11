@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "com.appidea.minigameplatform.communicationapi": {
-      "version": "https://github.com/hauk70/MiniGameAPI.git",
+      "version": "https://github.com/hauk70/MiniGameAPI.git#1.2.3",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.addressables": "1.21.21"
       },
-      "hash": "511a4bdc574eae0de9a55f70342b4134f30aa081"
+      "hash": "d5f96fa78eb91e62ea37a5ed8fa41e14fe6db0da"
     },
     "com.unity.2d.animation": {
       "version": "9.1.0",
@@ -23,7 +23,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.aseprite": {
-      "version": "1.1.1",
+      "version": "1.1.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -118,7 +118,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
-      "version": "1.8.12",
+      "version": "1.8.13",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -163,7 +163,7 @@
         "com.unity.2d.spriteshape": "9.0.2",
         "com.unity.2d.tilemap": "1.0.0",
         "com.unity.2d.tilemap.extras": "3.1.2",
-        "com.unity.2d.aseprite": "1.1.1"
+        "com.unity.2d.aseprite": "1.1.2"
       }
     },
     "com.unity.ide.rider": {
@@ -192,7 +192,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
-      "version": "14.0.10",
+      "version": "14.0.11",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
@@ -203,23 +203,23 @@
       }
     },
     "com.unity.render-pipelines.universal": {
-      "version": "14.0.10",
+      "version": "14.0.11",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.mathematics": "1.2.1",
         "com.unity.burst": "1.8.9",
-        "com.unity.render-pipelines.core": "14.0.10",
-        "com.unity.shadergraph": "14.0.10",
+        "com.unity.render-pipelines.core": "14.0.11",
+        "com.unity.shadergraph": "14.0.11",
         "com.unity.render-pipelines.universal-config": "14.0.9"
       }
     },
     "com.unity.render-pipelines.universal-config": {
-      "version": "14.0.9",
+      "version": "14.0.10",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
-        "com.unity.render-pipelines.core": "14.0.9"
+        "com.unity.render-pipelines.core": "14.0.10"
       }
     },
     "com.unity.scriptablebuildpipeline": {
@@ -237,11 +237,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
-      "version": "14.0.10",
+      "version": "14.0.11",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
-        "com.unity.render-pipelines.core": "14.0.10",
+        "com.unity.render-pipelines.core": "14.0.11",
         "com.unity.searcher": "4.9.2"
       }
     },

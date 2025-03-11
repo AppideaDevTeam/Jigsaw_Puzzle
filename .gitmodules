@@ -1,0 +1,3 @@
+[submodule "Assets/MiniGames.Puzzle_Fun"]
+	path = Assets/MiniGames.Puzzle_Fun
+	url = https://github.com/t3chno8uddha/jigsaw-puzzle-package.git
