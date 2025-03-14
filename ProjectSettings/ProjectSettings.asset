@@ -163,6 +163,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.AppIdea.Jigsaw_Puzzle
     Standalone: com.AppIdea.Jigsaw-Puzzle
+    iPhone: com.AppIdea.Jigsaw-Puzzle
   buildNumber:
     Standalone: 0
     VisionOS: 0
